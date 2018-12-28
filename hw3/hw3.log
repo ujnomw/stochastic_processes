@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.10.31)  28 DEC 2018 00:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2018.10.31)  29 DEC 2018 00:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1054,13 +1054,12 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 17.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] <pic3.png, id=11, 563.1037
-4pt x 156.585pt>
-File: pic3.png Graphic file (type png)
-
-<use pic3.png>
-Package pdftex.def Info: pic3.png used on input line 23.
-(pdftex.def)             Requested size: 390.0pt x 108.44994pt.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<sphw3.png, id=11, 563.10374pt x 141.52875pt>
+File: sphw3.png Graphic file (type png)
+ <use sphw3.png>
+Package pdftex.def Info: sphw3.png used on input line 23.
+(pdftex.def)             Requested size: 390.0pt x 98.02205pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 21--26
 
@@ -1071,7 +1070,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--47
 
  []
 
-[1 <./pic3.png>]
+[1 <./sphw3.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 81--84
 
  []
@@ -1079,7 +1078,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 81--84
 [2] (./hw3.aux) ) 
 Here is how much of TeX's memory you used:
  14005 strings out of 494387
- 261015 string characters out of 6172058
+ 261020 string characters out of 6172058
  296780 words of memory out of 5000000
  17020 multiletter control sequences out of 15000+600000
  21102 words of font info for 56 fonts, out of 8000000 for 9000
@@ -1095,7 +1094,7 @@ i12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on hw3.pdf (3 pages, 96767 bytes).
+Output written on hw3.pdf (3 pages, 96603 bytes).
 PDF statistics:
  148 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream
